@@ -1,0 +1,15 @@
+{
+  "name": "schoology-dump",
+  "version": "1.0.0",
+  "description": "A just dump of schoology peoples.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elijah Schweser <www.eschwes.com> [contact@eschwes.com]",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "schoology": "^0.1.5"
+  }
+}
